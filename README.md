@@ -1,36 +1,55 @@
-# ⚡ System.out.println("Hello, World!");
+<div align="center">
+  <h1>Hi, I'm <span style="color: #00D2FF;">Farhan Habib</span> 🚀</h1>
+  <p><strong>CSE Student | Systems Strategist | Global Thinker</strong></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Building+Scalable+Systems;CSE+Undergrad+%40+Bangladesh;Focused+on+High-Leverage+Tech;Exploring+Global+Economic+Systems" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+High-Leverage+Software;Analyzing+Global+Economic+Systems;Engineering+Financial+Freedom;Optimizing+for+Scalable+Impact" alt="Typing SVG" />
+</div>
 
----
+<hr />
 
-### 🛠️ Core Tech & Infrastructure
-I focus on understanding the fundamental layers of software and digital infrastructure. I don't just use tools; I aim to master the logic behind them.
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3><b>⚡ The Profile</b></h3>
+      <p>I am a 21-year-old <b>Computer Science and Engineering</b> student from Bogura, Bangladesh. My approach to tech isn't just about syntax—it's about <b>architecture, leverage, and global systems.</b></p>
+      
+      <ul>
+        <li><b>Engineering:</b> Mastering algorithms and infrastructure at a fundamental level.</li>
+        <li><b>Business:</b> Obsessed with ROI, wealth creation, and scalable models.</li>
+        <li><b>Geography:</b> Analyzing how economic development and borders shape societies.</li>
+      </ul>
+      
+      <p><i>"I don't just use software; I study the systems that make it globally relevant."</i></p>
+    </td>
+    <td width="40%" valign="top">
+      <h3><b>🛠️ Core Stack</b></h3>
+      <code>C++</code> <code>Python</code> <code>Data Structures</code><br>
+      <code>Algorithms</code> <code>System Design</code> <code>SQL</code>
+      <br><br>
+      <h3><b>🌍 Focus</b></h3>
+      <code>Economic Geography</code><br>
+      <code>Market Dominance</code><br>
+      <code>Strategic Optimization</code>
+    </td>
+  </tr>
+</table>
 
-* **Languages:** `Python`, `C/C++`, `JavaScript`, `SQL`
-* **Architecture:** Exploring Distributed Systems, Algorithms, and System Optimization.
-* **Interests:** Market Economics, Global Development, and Scalable Business Models.
+<hr />
 
+<div align="center">
+  <h3><b>📊 Performance Metrics</b></h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Farhan's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+<hr />
 
-### 📊 Performance Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
-
-### 🗺️ Beyond the Code
-I view the world through the lens of systems and hierarchies—whether that's a codebase or a country's economic evolution. Currently analyzing:
-* **Economic Geography:** How borders and development rankings shape global opportunities.
-* **Wealth Creation:** Building technical skills that offer maximum ROI and long-term leverage.
-
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
----
-*"The best way to predict the future is to build it."*
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
