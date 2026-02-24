@@ -21,6 +21,7 @@
       
       <p><i>"I don't just use software; I study the systems that make it globally relevant."</i></p>
     </td>
+    
     <td width="40%" valign="top">
       <h3><b>🛠️ Core Stack</b></h3>
       <code>C++</code> <code>Python</code> <code>Data Structures</code><br>
@@ -46,10 +47,5 @@
 <hr />
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p>Let's build something high-value.</p>
 </div>
