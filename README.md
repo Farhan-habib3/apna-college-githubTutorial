@@ -10,7 +10,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3><b>⚡ The Profile</b></h3>
-      <p>I am a 21-year-old <b>Computer Science and Engineering</b> student from Bogura, Bangladesh. My approach to tech isn't just about syntax—it's about <b>architecture, leverage, and global systems.</b></p>
+      <p>I am a 21-year-old <b>Computer Science and Engineering</b> student from Dhaka, Bangladesh. My approach to tech isn't just about syntax—it's about <b>architecture, leverage, and global systems.</b></p>
       <ul>
         <li><b>Engineering:</b> Mastering algorithms and infrastructure at a fundamental level.</li>
         <li><b>Business:</b> Obsessed with ROI, wealth creation, and scalable models.</li>
