@@ -1,28 +1,25 @@
-```html
 <div align="center">
 
-  <h1>Farhan Habib</h1>
-  <h3>Computer Science & Engineering · Bangladesh 🇧🇩</h3>
+# FARHAN HABIB
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Building+with+Code.;Thinking+in+Systems.;Exploring+AI+%26+Technology.;Always+Learning." />
+### `CSE STUDENT` · `BANGLADESH 🇧🇩`
 
-  <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Code.+Systems.+Curiosity.;Exploring+AI+%26+Technology;Building+Things+That+Matter." />
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode&theme=dark" />
+<br>
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode&theme=dark" />
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF&rank_icon=github" />
-  </a>
+<br><br>
 
-  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Farhan-habib3&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=FFFFFF" />
+<br>
 
-  <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF" />
 
-  <i>"Curious about how the world works. Driven to build what comes next."</i>
+<br><br>
+
+*"Curious about the world. Building for the future."*
 
 </div>
-```
